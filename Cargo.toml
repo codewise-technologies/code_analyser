@@ -1,6 +1,6 @@
 [package]
 name = "code_analyzer"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["CodeWise Technologies <dev@codewisetech.biz>"]
 edition = "2021"
 description = "A Rust-based static code analysis tool for JavaScript, TypeScript, Python, and Go."
