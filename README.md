@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please contact Pool Camacho Gonzales at [tu.email@example.com](mailto:tu.email@example.com).
+For any questions or issues, please contact CodeWise Technologies at [dev@codewisetech.biz](mailto:dev@codewisetech.biz).
